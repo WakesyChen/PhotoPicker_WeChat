@@ -1,0 +1,2 @@
+类似qq发说说的图片加载
+http://blog.csdn.net/jdsjlzx/article/details/44160603
